@@ -1,7 +1,7 @@
 # Olá, eu sou Samir
 
-Tenho 24 anos de idade sou desenvolvedor fullstack, apaixonado por Python.
-Atualmente estudando Java/Angular, em paralelo tambem esstou estudando algumas Stacks No-Code como Bubble, e Flutterflow.
+Tenho 24 anos de idade sou desenvolvedor backend, apaixonado por Python.
+Atualmente estudando .NTE e PHP, em paralelo tambem trabalhando algumas Stacks No-Code como Bubble, e Flutterflow e XANO.
 
 ## Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-zanata-jr-a7a3261b5/)

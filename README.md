@@ -1,14 +1,14 @@
 # Olá, eu sou Samir
 
-Tenho 24 anos de idade sou desenvolvedor backend, apaixonado por Python.
-Atualmente estudando .NTE e PHP, em paralelo tambem trabalhando algumas Stacks No-Code como Bubble, e Flutterflow e XANO.
+Sou um desenvolvedor backend, 25 anos, especializado em criar soluções eficientes e escaláveis com Python e FastAPI. Além disso, tenho experiência em diversas stacks, incluindo .NET, Spring Boot e Yii, permitindo-me abordar projetos com flexibilidade.
+Me aventurando agora no mundo do Low/No Code: Supabase, XANO, Firebase, Bubble, Flutterflow.
+
 
 ## Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-zanata-jr-a7a3261b5/)
 [![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamirZanata)
 [![instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zanata_ju/)
 [![e-mail](	https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:samirzanata@icloud.com)
-[![portifolio](https://img.shields.io/badge/Portifolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://samirzanata.vercel.app)
 
 
 

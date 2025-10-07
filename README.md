@@ -1,35 +1,99 @@
-# Olá, eu sou Samir
 
-Sou um desenvolvedor backend, 25 anos, especializado em criar soluções eficientes e escaláveis com Python e FastAPI. Além disso, tenho experiência em diversas stacks, incluindo .NET, Spring Boot e Yii, permitindo-me abordar projetos com flexibilidade.
-Me aventurando agora no mundo do Low/No Code: Supabase, XANO, Firebase, Bubble, Flutterflow.
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gahznt?cardType=level-alternate&theme=github-dark)](https://git.io/awesome-stats-card) 
 
+<h1>
+</h1>
+<h3>
+</h3>
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"  />
+</div>
 
-## Conecte-se comigo
-[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-zanata-jr-a7a3261b5/)
-[![github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamirZanata)
-[![instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zanata_ju/)
-[![e-mail](	https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:samirzanata@icloud.com)
+###
 
+<div align="center">
+  <a href="https://linkedin.com/in/samir-zanata-jr-a7a3261b5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/614880767042125919" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="samirzanata@icloud.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
+###
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=SamirZanata&show_icons=true&theme=vue&include_all_comits=true&count_private-true&hide_title=true&hide=stars)
+<h1 align="center">Olá, seja bem-vindo👋</h1>
 
-## Tecnologias
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+###
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
+<h3 align="left">👩‍💻 Sobre mim</h3>
 
+###
 
+<p align="left">
+Meu nome é Samir Zanata e moro em Minas Gerais (MG - Brasil).
 
-## Minhas Contribuições
+Sou um engenheiro de software que gosta de construir pontes entre sistemas. Minha paixão é usar o melhor dos dois mundos: a robustez do backend com Node.js, NestJS, Python e FastAPI e a velocidade de plataformas como Supabase.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samirzanata&repo=dio-lab-open-source&theme=vue)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+Nos últimos anos, ajudei empresas a escalar suas operações integrando de tudo um pouco: CRMs, ERPs, APIs (REST/GraphQL) e até editores de documentos. Meu objetivo é sempre o mesmo: entregar valor real, com segurança e no menor tempo possível.
 
+Se você precisa de agilidade para validar uma ideia ou escalar um produto, minha abordagem híbrida pode ser a solução. Estou sempre em busca de projetos onde possa ter autonomia e gerar impacto.
+</p>
+###
+
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
+
+###
+
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Meu status :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Gahznt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 

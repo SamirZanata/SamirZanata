@@ -1,5 +1,5 @@
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Gahznt?cardType=level-alternate&theme=github-dark)](https://git.io/awesome-stats-card) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SamirZanata?cardType=level-alternate&theme=github-dark)](https://git.io/awesome-stats-card) 
 
 <h1>
 </h1>
@@ -94,6 +94,6 @@ Se você precisa de agilidade para validar uma ideia ou escalar um produto, minh
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gahznt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=SamirZanata&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
